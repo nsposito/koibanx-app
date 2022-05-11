@@ -1,0 +1,23 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: 1500px;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+th{
+    padding: 5px;
+    border: 1px solid
+}
+
+td {
+    padding: 1px;
+    border: 1px solid 
+}

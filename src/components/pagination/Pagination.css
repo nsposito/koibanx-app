@@ -1,5 +1,4 @@
-.spinner-container{
+.pagination {
     display: flex;
-    margin-top: 300px;
     justify-content: center;
 }
